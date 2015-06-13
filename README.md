@@ -1,5 +1,5 @@
 # JavaSockets
-Client and Server programs written in Java to.establish a socket network connection
+Client Program written in Java to.establish a socket network connection
 
 This Program was created to establish a socket connection to my UNF Server address on a misc port to 
 report network performance statistics on my client computer, which is a linux laptop, and the server
