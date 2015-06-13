@@ -5,7 +5,7 @@ import java.io.*;
  *
  * @author Chris Koivu
  */
-public class ThreadClient extends Thread {
+public class Client_Socket extends Thread {
    private Socket client = null;
    private String line;
    private PrintWriter outData = null;
