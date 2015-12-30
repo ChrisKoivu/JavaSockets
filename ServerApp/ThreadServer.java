@@ -62,7 +62,7 @@ PrintWriter out = null;
       } //end of catch block
     } // end of run method
   
-    private void processCommand(String cmNumber){
-        sC.enterCommand(cmNumber);
+    private void processCommand(String inputCommand){
+        sC.enterCommand(inputCommand);
     }
 }
